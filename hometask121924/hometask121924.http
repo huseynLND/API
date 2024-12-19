@@ -1,0 +1,6 @@
+@hometask121924_HostAddress = http://localhost:5003
+
+GET {{hometask121924_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
